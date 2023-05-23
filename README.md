@@ -7,7 +7,7 @@
 
 **Here's a quick summary about me**:
 
-- 💡 Fun fact: I'm studied at [Semicolon Africa](https://semicolon.africa/), and AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering)
+- 💡 Fun fact: I studied at [Semicolon Africa](https://semicolon.africa/), and AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering)
 - 🌱 I’m currently learning JavaScript, Reactjs, Java, Spring, Python, and how to think.
 - 😊 I’m excited about open source projects, system design & architecture, and embedded systems
 - 🔭 I’m currently working on a pet project to promote peer-to-peer learning in the classroom
