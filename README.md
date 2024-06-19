@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on a pet project to improve event experiences.
 - 👯 I’m looking to collaborate on new products and research
 <!-- - 💬 Do you care to ask about my journey so far? -->
-- 📫 You can reach me via mailtodejimartins99@gmail.com
+- 📫 You can reach me via dejimartins99@gmail.com
 
 ---
 
